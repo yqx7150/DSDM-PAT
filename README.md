@@ -1,6 +1,6 @@
 # DSDM-PAT
 ​
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## Flowchart of the proposed PAT sparse reconstruction method
 
 ![image1](1.jpg)
 
