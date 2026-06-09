@@ -4,11 +4,11 @@
 
 ![image1](1.jpg)
 
-## The actual PAT system
+## Reconstruction results of circular phantom images
 
 ![image2](2.jpg)
 
-## Reconstruction results of data acquired from actual PAT System
+## Reconstruction results of blood vessel simulated vessel images
 
 ![image3](3.jpg)
 
